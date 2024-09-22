@@ -1,1 +1,2 @@
 # Zomato-restaurant-analysis
+Led a comprehensive sales analysis project at Maven Market, utilizing Excel for data trend analysis and Power BI for interactive dashboards. In Excel, analyzed seasonal sales trends, customer segments, and product performance using advanced functions and pivot tables to identify top-selling products and high-value customers. Developed dynamic Power BI dashboards to visualize key sales metrics, providing stakeholders with actionable insights that supported data-driven decision-making
